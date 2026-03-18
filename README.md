@@ -26,7 +26,8 @@ The solution uses a **Neural Network (TensorFlow/Keras)** and follows a structur
 
 * File: `TravelInsurancePrediction.csv`
 * The dataset should be placed in the **same directory** as the Python script.
-
+* The dataset used in this project can be downloaded from Kaggle:
+[Travel Insurance Prediction Dataset](https://www.kaggle.com/datasets/tejashvi14/travel-insurance-prediction-data/data)
 
 ## How to Run
 
